@@ -13,7 +13,6 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
-  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ---
@@ -46,6 +45,7 @@
       <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
   </tr>
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph"  />
 </table>
 
 ---
