@@ -46,7 +46,9 @@
     </td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph"  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
+</p>
 ---
 
 ### 📊 GitHub Analytics
