@@ -45,9 +45,8 @@
       <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
   </tr>
-  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph"  />
 </table>
-
+<img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph"  />
 ---
 
 ### 📊 GitHub Analytics
