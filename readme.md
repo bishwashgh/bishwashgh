@@ -1,12 +1,8 @@
 <div align="center">
-  <!-- Animated Typing Header -->
+  <!-- Your Custom Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Bishwas+Ghimire;Backend+Engineer;Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Bishwas+Ghimire+;Backend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <strong>Building robust backend systems from Nepal 🇳🇵</strong>
-  </p>
 
   <!-- Clean, Unified Social Badges -->
   <p align="center">
