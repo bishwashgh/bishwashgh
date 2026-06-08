@@ -1,21 +1,41 @@
-# 💫 About Me:
-## 🔭 I'm currently working on<br>- Full-stack development using **NestJS & Express.js (Backend)** and **React (Frontend)**<br>- Building secure, scalable REST APIs<br>- Connecting backend services with modern user interfaces<br><br>## 👯 I'm looking to collaborate on<br>- **NestJS / Express.js + React full-stack projects**<br>- Open-source JavaScript-based projects<br>- Real-world web applications<br><br>## 🤝 I'm looking for help with<br>- **Advanced NestJS architecture**<br>- Authentication & authorization (JWT, OAuth)<br>- Backend optimization and deployment strategies<br><br>## 🌱 I'm currently learning<br>- **NestJS & Express.js deep concepts**<br>- React performance optimization<br>- API security & system design fundamentals<br><br>## 💬 Ask me about<br>- **NestJS, Express.js & React**<br>- REST APIs & backend fundamentals<br>- JavaScript ecosystem<br><br>## ⚡ Fun fact<br>- I enjoy backend logic more than frontend styling 😄<br>
+<h1 align="left">Hi 👋! My name is Bishwas Ghimire and I'm Backend Developer, from Nepal</h1>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwas-ghimire-34a271257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishwasghimire2060@gmail.com) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=bishwashgh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bishwashgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bishwashgh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwashgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/Hazy019/hazy-readme-cards/main/public/pixel_art_dark.gif"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=bishwashgh&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="90" alt="nestjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="90" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/bishwasjs?igsh=YWw0cDV3MGJ5eTV2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="bishwasghimire2060@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/snake-output/snake.svg" alt="Snake animation" />
+
+###
