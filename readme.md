@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Your Updated Custom Animated Typing Header -->
+  <!-- Multi-line Typing Animation to prevent text cutoff -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B!+I'm+Bishwas+Ghimire+%2CBackend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5+quickly" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&vCenter=true&lines=%F0%9F%91%8B!+I'm+Bishwas+Ghimire;Backend+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
   </a>
 
   <!-- Clean, Unified Social Badges -->
