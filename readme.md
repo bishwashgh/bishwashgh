@@ -46,9 +46,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
-</p>
 ---
 
 ### 📊 GitHub Analytics
@@ -57,6 +54,9 @@
   <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/stats-output/stats.svg" height="165" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=bishwashgh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
+</p>
 
 ---
 
