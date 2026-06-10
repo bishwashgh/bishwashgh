@@ -50,20 +50,12 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/stats-output/stats.svg" height="165" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=bishwashgh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
-</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
 </p>
 
----
 
-
-<div align="center">
-  <img width="100%" style="max-width: 700px; border-radius: 8px;" src="https://raw.githubusercontent.com/Hazy019/hazy-readme-cards/main/public/pixel_art_dark.gif" alt="Pixel Art" />
-</div>
 
 ---
 
