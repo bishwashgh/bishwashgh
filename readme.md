@@ -60,7 +60,6 @@
 
 ---
 
-### 🎨 Workspace Vibe
 
 <div align="center">
   <img width="100%" style="max-width: 700px; border-radius: 8px;" src="https://raw.githubusercontent.com/Hazy019/hazy-readme-cards/main/public/pixel_art_dark.gif" alt="Pixel Art" />
