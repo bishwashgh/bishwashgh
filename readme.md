@@ -55,12 +55,3 @@
   <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
 </p>
 
-
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/snake-output/snake.svg" alt="Snake animation" width="100%" />
-</div>
