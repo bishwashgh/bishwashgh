@@ -55,3 +55,11 @@
   <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/languages-output/languages.svg" height="150" alt="languages graph" />
 </p>
 
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/snake-output/snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>
+
+
+
