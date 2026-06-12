@@ -56,6 +56,9 @@
 </p>
 
 <br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bishwashgh/bishwashgh/snake-output/snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>
 
 
 
